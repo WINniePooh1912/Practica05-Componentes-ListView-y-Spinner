@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Boletos de concierto</string>
+
+    <string name="codigo">Código de boleto</string>
+    <string name="artista">Artista</string>
+    <string name="lugar">Región</string>
+    <string name="fecha">Fecha (DD/MM/AA)</string>
+
+    <string name="servicio">Tipo de servicio</string>
+    <string name="servEc">Económico</string>
+    <string name="servGen">General</string>
+    <string name="servVIP">Exclusivo</string>
+
+    <string name="zona">Elija la zona que desee</string>
+
+    <string-array name="listaArtistas">
+        <item>5 Seconds of Summer</item>
+        <item>Sabrina Carpenter</item>
+        <item>Taylor Swift</item>
+        <item>WayV</item>
+        <item>Zadky</item>
+    </string-array>
+
+    <string name="agregar">Agregar</string>
+    <string name="limpiar">Limpiar</string>
+    <string name="buscar">Buscar</string>
+    <string name="regresar">Regresar</string>
+    <string name="eliminar">Eliminar</string>
+
+    <string name="datos">Información registrada</string>
+</resources>

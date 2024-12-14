@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Concierto App-->
+    <color name="darker">#212121</color>
+    <color name="dark">#3C3D37</color>
+    <color name="dusty">#F2F1EA</color>
+    <color name="green_dark">#557C56</color>
+    <color name="green">#626F47</color>
+    <color name="green_light">#798645</color>
+</resources>
